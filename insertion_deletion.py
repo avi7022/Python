@@ -4,7 +4,7 @@ Created on Thu Jul 14 12:33:33 2022
 
 @author: Abhishek
 """
-
+#Hackerrank solution
 def lcs(str1,str2,m,n):
     
     #Initializing array of L[m+1][n+1]= 0
